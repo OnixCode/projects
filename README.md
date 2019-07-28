@@ -1,2 +1,3 @@
 #Demo README File
-This is a standard readme file.
+This is a standard readme file
+New text.
